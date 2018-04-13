@@ -5,7 +5,7 @@
       <router-link to="/text_reader">
         <el-menu-item index="1-1">音声読み上げ</el-menu-item>
       </router-link>
-      <router-link to="/">
+      <router-link to="/voice_recognition">
         <el-menu-item index="1-2">音声入力</el-menu-item>
       </router-link>
     </el-submenu>
